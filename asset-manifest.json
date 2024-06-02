@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buybuddy/static/css/main.6ce57003.css",
+    "main.js": "/buybuddy/static/js/main.c86d634a.js",
+    "index.html": "/buybuddy/index.html",
+    "main.6ce57003.css.map": "/buybuddy/static/css/main.6ce57003.css.map",
+    "main.c86d634a.js.map": "/buybuddy/static/js/main.c86d634a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ce57003.css",
+    "static/js/main.c86d634a.js"
+  ]
+}
